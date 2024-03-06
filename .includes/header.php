@@ -48,13 +48,13 @@ $role = $_SESSION["role"];
     <link rel="stylesheet" href="assets/vendor/css/core.css" class="template-customizer-core-css" />
     <link rel="stylesheet" href="assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
     <link rel="stylesheet" href="assets/css/styles.css" />
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="assets/vendor/css/dataTables.bootstrap5.min.css">
 
     <!-- Vendors CSS -->
     <link rel="stylesheet" href="assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
     <!-- Page CSS -->
     <!-- Summernote CSS and JS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css">
+    <link rel="stylesheet" href="assets/vendor/css/summernote.min.css">
     <!-- Helpers -->
     <script src="assets/vendor/js/helpers.js"></script>
     <!--! Template customizer & Theme config files MUST be included after core stylesheets and helpers.js in the <head> section -->
